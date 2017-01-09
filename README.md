@@ -1,3 +1,3 @@
-# JavaRush1
+# JavaRush
 
 Решения задач JavaRush.ru
