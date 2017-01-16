@@ -28,6 +28,7 @@ public class Solution
         System.out.println(array[15]);
     }
 
+
     public static void sort(int[] array)
     {
         Arrays.sort(array);//напишите тут ваш код
